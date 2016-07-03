@@ -1,0 +1,29 @@
+.page-title {
+  text-align: center;
+}
+body {
+  margin-top: 30px;
+}
+.label {
+  margin-right: 10px;
+}
+.repoItem {
+  background: #f9f9f9;
+  border: 1px solid #f9f9f9;
+  padding: 10px;
+  border-radius: 5px;
+  margin-bottom: 10px;
+}
+
+.form-control {
+  width: 450px !important;
+  margin-right: 10px;
+}
+
+form {
+  text-align: center;
+  margin-bottom: 35px;
+  background: #f9f9f9;
+  padding: 20px 10px;
+  border-radius: 10px;
+}

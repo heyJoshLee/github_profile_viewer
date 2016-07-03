@@ -1,0 +1,15 @@
+{
+  "name": "github_profiles",
+  "version": "1.0.0",
+  "description": "Simple web server",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "*",
+    "express": "*"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Josh Lee",
+  "license": "ISC"
+}
